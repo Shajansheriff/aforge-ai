@@ -13,11 +13,14 @@ export default function Home() {
             AFFORGE AI
           </h1>
         </div>
-        <p className="mt-4 text-lg leading-8 text-gray-300">
+        <p className="mt-4 text-lg leading-8 text-gray-300  ">
           Discovery Acceleration for Product Teams
         </p>
         <div className="mt-10 flex items-center justify-center gap-x-6">
-          <a href="#" className="text-sm font-semibold leading-6 text-white">
+          <a
+            href="#"
+            className="text-md font-semibold leading-6 tracking-wide text-white "
+          >
             Early access <span aria-hidden="true">→</span>
           </a>
         </div>
